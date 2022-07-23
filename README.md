@@ -1,4 +1,4 @@
-### Praticando JS com sintaxe de classe, com um sistema de RPG, abaixo as características:
+### Praticando JavaScript com sintaxe de classe, com um sistema de RPG, abaixo as características:
 
 
 
